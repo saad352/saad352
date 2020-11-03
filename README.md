@@ -6,8 +6,6 @@
 - Learning DevOps and Automation with speciality in AWS cloud
 - Looking for my next role in iOS, Worldwide 🌍
 
-</br>
-
 ### Connect with me:
 
 [<img align="left" alt="Saad AM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" />][linkedin]
