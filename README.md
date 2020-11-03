@@ -7,7 +7,6 @@
 - Mainly worked for startups in my iOS Career of approx 5 years
 - Learning DevOps and Automation with speciality in AWS cloud
 - Looking for my next role in iOS, Worldwide 🌍
-- 
 
 ### Connect with me:
 
