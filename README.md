@@ -1,7 +1,5 @@
 ### Hi there, I'm Saad AM 👋
 
-<br/>
-
 ## I'm a Veteran, iOS Developer📱, DevOps Engineer and Marksman!
 - Currently working Part-time as an iOS Developer at EzyEdu
 - Mainly worked for startups in my iOS Career of approx 5 years
