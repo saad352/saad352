@@ -49,7 +49,7 @@
 
 [<img align="left" alt="EzyEdu Biz" width="60px" src="https://play-lh.googleusercontent.com/D_A03LhnqpAKZwn0P9oUdglTvzAo8o__jjWRtpYkxLYO_8FfsiURrgQZgBT_Ak7wYyk=s180-rw" style="max-width:100%;" />][ezyedu-biz]
 
-[<img align="left" alt="EzyEdu Biz" width="60px" src="https://scontent.fisb5-1.fna.fbcdn.net/v/t1.0-1/cp0/p80x80/54518586_10157286328512052_5566542872796200960_n.jpg?_nc_cat=104&ccb=2&_nc_sid=dbb9e7&_nc_ohc=e4if88wiR_cAX85sK4d&_nc_ht=scontent.fisb5-1.fna&tp=27&oh=0d154ba8260dfdc622e7fabc5bc62237&oe=5FC6F467" style="max-width:100%;" />][foona]
+[<img align="left" alt="Foona" width="80px" src="https://www.foona.net/wp-content/uploads/2019/11/foona-logo2.png" style="max-width:100%;" />][foona]
 
 
 
