@@ -45,9 +45,9 @@
 
 ## iOS Portfolio Apps
 
-[<img align="left" alt="Ezy Edu" width="60px" src="https://static.wixstatic.com/media/f55522_8a30d1b5599142fe9cc13b4f58f6dfbe~mv2.png/v1/fill/w_56,h_53,al_c,q_85,usm_0.66_1.00_0.01/logo%20baru.webp" style="max-width:100%;" />][ezyedu]
+[<img align="left" alt="Ezy Edu" width="60px" src="https://image.winudf.com/v2/image1/Y29tLmV6eWVkdS5zdHVkZW50X2ljb25fMTU4MzA3NDAzMV8wNjQ/icon.png?w=340&fakeurl=1" style="max-width:100%;" />][ezyedu]
 
-[<img align="left" alt="EzyEdu Biz" width="60px" src="https://play-lh.googleusercontent.com/D_A03LhnqpAKZwn0P9oUdglTvzAo8o__jjWRtpYkxLYO_8FfsiURrgQZgBT_Ak7wYyk=s180-rw" style="max-width:100%;" />][ezyedu-biz]
+[<img align="left" alt="EzyEdu Biz" width="60px" src="https://image.winudf.com/v2/image1/Y29tLmV6eWVkdS52ZW5kb3JfaWNvbl8xNTcwNjk4MTcwXzA2OQ/icon.png?w=340&fakeurl=1" style="max-width:100%;" />][ezyedu-biz]
 
 [<img align="left" alt="Foona" width="80px" src="https://www.foona.net/wp-content/uploads/2019/11/foona-logo2.png" style="max-width:100%;" />][foona]
 
