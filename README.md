@@ -1,9 +1,9 @@
 ### Hi there, I'm Saad AM 👋
 
 ## I'm an iOS Developer📱, DevOps Engineer and Marksman!
-- Currently working as an iOS Developer at EzyEdu
-- Mainly worked for startups in my iOS Career of approx 5 years
-- Learning DevOps and Automation with speciality in AWS cloud
+- Currently working as an Mobile Platform Developer at Glovo
+- Mainly worked for startups in my iOS Career of approx 8 years
+- DevOps and Automation Engineer with speciality in AWS cloud, Macstadium
 - Looking for my next role in iOS, Worldwide 🌍
 
 ### Connect with me:
