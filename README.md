@@ -1,10 +1,9 @@
 ### Hi there, I'm Saad AM 👋
 
-## I'm an iOS Developer📱, DevOps Engineer and Marksman!
+## I'm an iOS Developer📱 / DevOps Engineer!
 - Currently working as an Mobile Platform Developer at Glovo
 - Mainly worked for startups in my iOS Career of approx 8 years
-- DevOps and Automation Engineer with speciality in AWS cloud, Macstadium
-- Looking for my next role in iOS, Worldwide 🌍
+- DevOps and Automation Engineer with speciality in AWS cloud
 
 ### Connect with me:
 
@@ -43,22 +42,8 @@
 <br/>
 
 
-## iOS Portfolio Apps
-
-[<img align="left" alt="Ezy Edu" width="60px" src="https://image.winudf.com/v2/image1/Y29tLmV6eWVkdS5zdHVkZW50X2ljb25fMTU4MzA3NDAzMV8wNjQ/icon.png?w=340&fakeurl=1" style="max-width:100%;" />][ezyedu]
-
-[<img align="left" alt="EzyEdu Biz" width="60px" src="https://image.winudf.com/v2/image1/Y29tLmV6eWVkdS52ZW5kb3JfaWNvbl8xNTcwNjk4MTcwXzA2OQ/icon.png?w=340&fakeurl=1" style="max-width:100%;" />][ezyedu-biz]
-
-[<img align="left" alt="Foona" width="80px" src="https://www.foona.net/wp-content/uploads/2019/11/foona-logo2.png" style="max-width:100%;" />][foona]
-
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/saad-abdullah-munir-15965496/
 [twitter]: https://twitter.com/IAmSaadAM
 
-
-[ezyedu]: https://apps.apple.com/us/app/ezy-edu/id1469496251
-[ezyedu-biz]: https://apps.apple.com/us/app/ezy-edu-biz/id1469501343
-[foona]: https://apps.apple.com/az/app/foona-discover-food-nearby/id1346769920
